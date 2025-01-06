@@ -1,6 +1,6 @@
 ## NAME: A.PRAVEENA
 ## REGISTER NO: 24006885
-## EXPERIMENT NO:3  HALF_ADDER_SUBTRACTOR
+## EXPERIMENT NO:3  Implementation of HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
